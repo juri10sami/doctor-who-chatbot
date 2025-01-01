@@ -20,46 +20,44 @@ This repository contains a simple Doctor Who-themed chatbot implemented in Java.
    git clone https://github.com/juri10sami/doctor-who-chatbot.git
    
 ## Navigate to the project directory:
-```bash
-Copy code
-cd doctor-who-chatbot
-Open the Doctor.java file in your preferred Java IDE (e.g., IntelliJ, Eclipse, or VS Code).
-Compile the program:
-```bash
-Copy code
-javac Doctor.java
-Run the program:
-```bash
-Copy code
-java Doctor
-Start chatting with the Doctor Who chatbot by typing questions into the console!
+Copy code  
+cd doctor-who-chatbot  
+Open the Doctor.java file in your preferred Java IDE (e.g., IntelliJ, Eclipse, or VS Code).  
+Compile the program:  
+
+Copy code  
+javac Doctor.java  
+Run the program:  
+Copy code  
+java Doctor  
+Start chatting with the Doctor Who chatbot by typing questions into the console!  
 
 ## Example Questions:
-"Who are the Doctor's companions?"
-"What is the TARDIS?"
-"Can the Doctor die?"
-"How does regeneration work?"
-"What are the Doctor's greatest fears?"
+"Who are the Doctor's companions?"  
+"What is the TARDIS?"  
+"Can the Doctor die?"  
+"How does regeneration work?"  
+"What are the Doctor's greatest fears?"  
 
 ##Technologies Used:
-Java 8+: Programming language for the chatbot logic.
-ArrayList: Data structure for managing keywords and responses.
-Scanner: For reading user input.
-Project Structure
-tokenization Method:
-Breaks user input into individual words for keyword detection.
-answers Method:
-Routes input to appropriate response-generating methods (what, how, can, who).
-Custom Response Methods:
-what, how, can, who, and others provide dynamic, context-based replies.
-Random Response Generator:
-Adds variation to the chatbot's replies for a more engaging experience.
+Java 8+: Programming language for the chatbot logic.  
+ArrayList: Data structure for managing keywords and responses.  
+Scanner: For reading user input.  
+Project Structure  
+tokenization Method:  
+Breaks user input into individual words for keyword detection.  
+answers Method:  
+Routes input to appropriate response-generating methods (what, how, can, who).  
+Custom Response Methods:  
+what, how, can, who, and others provide dynamic, context-based replies.  
+Random Response Generator:  
+Adds variation to the chatbot's replies for a more engaging experience.  
 
 ## Future Improvements
-Implement advanced NLP for better understanding of user input.
-Add a GUI for a more interactive user interface.
-Expand the Doctor Who knowledge base with more trivia and responses.
-Introduce sentiment analysis to tailor responses based on user tone.
-Acknowledgments
-This project was inspired by the BBC's iconic series Doctor Who. It serves as a learning exercise in Java programming and chatbot development.
+Implement advanced NLP for better understanding of user input.  
+Add a GUI for a more interactive user interface.  
+Expand the Doctor Who knowledge base with more trivia and responses.  
+Introduce sentiment analysis to tailor responses based on user tone.  
+## Acknowledgments  
+This project was inspired by the BBC's iconic series Doctor Who. It serves as a learning exercise in Java programming and chatbot development.  
 
