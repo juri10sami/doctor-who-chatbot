@@ -63,13 +63,3 @@ Introduce sentiment analysis to tailor responses based on user tone.
 Acknowledgments
 This project was inspired by the BBC's iconic series Doctor Who. It serves as a learning exercise in Java programming and chatbot development.
 
-### **Why It Works**
-1. **Clarity**: Clearly describes the project's purpose and features.
-2. **Structure**: Organized sections make it easy for users to navigate.
-3. **Technical Details**: Includes how to run the chatbot and describes key methods.
-4. **Professional Presentation**: Highlights potential future improvements and acknowledges the inspiration behind the project.
-
-
-
-
-
