@@ -20,16 +20,16 @@ This repository contains a simple Doctor Who-themed chatbot implemented in Java.
    git clone https://github.com/juri10sami/doctor-who-chatbot.git
    
 ## Navigate to the project directory:
-bash
+```bash
 Copy code
 cd doctor-who-chatbot
 Open the Doctor.java file in your preferred Java IDE (e.g., IntelliJ, Eclipse, or VS Code).
 Compile the program:
-bash
+```bash
 Copy code
 javac Doctor.java
 Run the program:
-bash
+```bash
 Copy code
 java Doctor
 Start chatting with the Doctor Who chatbot by typing questions into the console!
